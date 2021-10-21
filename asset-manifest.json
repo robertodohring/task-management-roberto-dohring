@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://robertodohring.github.io/task-management-roberto-dohring/static/css/main.865def11.chunk.css",
+    "main.js": "https://robertodohring.github.io/task-management-roberto-dohring/static/js/main.ae131d85.chunk.js",
+    "main.js.map": "https://robertodohring.github.io/task-management-roberto-dohring/static/js/main.ae131d85.chunk.js.map",
+    "runtime~main.js": "https://robertodohring.github.io/task-management-roberto-dohring/static/js/runtime~main.e480b207.js",
+    "runtime~main.js.map": "https://robertodohring.github.io/task-management-roberto-dohring/static/js/runtime~main.e480b207.js.map",
+    "static/js/2.1648a13d.chunk.js": "https://robertodohring.github.io/task-management-roberto-dohring/static/js/2.1648a13d.chunk.js",
+    "static/js/2.1648a13d.chunk.js.map": "https://robertodohring.github.io/task-management-roberto-dohring/static/js/2.1648a13d.chunk.js.map",
+    "index.html": "https://robertodohring.github.io/task-management-roberto-dohring/index.html",
+    "precache-manifest.4d94e08e13264d7c6e4b6ae99ac90088.js": "https://robertodohring.github.io/task-management-roberto-dohring/precache-manifest.4d94e08e13264d7c6e4b6ae99ac90088.js",
+    "service-worker.js": "https://robertodohring.github.io/task-management-roberto-dohring/service-worker.js",
+    "static/css/main.865def11.chunk.css.map": "https://robertodohring.github.io/task-management-roberto-dohring/static/css/main.865def11.chunk.css.map"
+  }
+}
